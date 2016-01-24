@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Proverbial Path]]></title>
         <description><![CDATA[Proverbial Path]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/proverbial-path/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 03:37:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 03:37:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/proverbial-path/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is It Wise to Believe That Christians and Muslims Worship the Same God?]]></title>
+            <description><![CDATA[<article><h1>Is It Wise to Believe That Christians and Muslims Worship the Same God?</h1><p>Proverbs tells us that the most crucial element of a wise worldview is having an understanding of, and proper attitude toward, the one who created the world—God. Proverbs 9:10 is one of several verses that tell us “Fear of the Lord is the beginning of wisdom”–but is it wisdom if we don’t know who this God is that we’re fearing?  The same verse, for example, goes on to explain that “knowledge of the Holy One is understanding.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5a80d7cc9dbee35886248403b72194ccb72a130.jpg"></article>]]></description>
+            <link>https://thegrid.ai/proverbial-path/is-it-wise-to-believe-that-christians-and-muslims-worship-th/index.html</link>
+            <guid isPermaLink="false">b387ea3b-82dc-4984-857b-58bbf5d3daf4</guid>
+            <pubDate>Sun, 24 Jan 2016 03:37:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Response to "5 Good Reasons to Think That Jesus Never Existed"]]></title>
             <description><![CDATA[<article><h1>A Response to "5 Good Reasons to Think That Jesus Never Existed"</h1><p>A friend of mine who isn’t a Christian recently shared on Facebook a Salon.com article entitled “5 good reasons to think Jesus never existed.” As one might expect, that touched off a flurry of comments from people on all sides of the issue. The article itself isn’t new, and the ideas behind it are even less so. Theauthoris an “Alternet” staff writer with no disclosed expertise and a long track record of similar screeds against religion. The limitations of social media don’t contribute to level-headed, constructive dialogue on topics like this (or on much else), so I usually avoid the fray.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b1fc61f400e8d03ecc0f56c3ccd1abb73cb4710.jpg"></article>]]></description>
-            <link>undefineda-response-to-5-good-reasons-to-think-that-jesus-never-exis/index.html</link>
+            <link>https://thegrid.ai/proverbial-path/a-response-to-5-good-reasons-to-think-that-jesus-never-exis/index.html</link>
             <guid isPermaLink="false">33ff4e26-18a9-4f8e-a0a6-c49ee5568f0e</guid>
             <pubDate>Sun, 24 Jan 2016 03:36:55 GMT</pubDate>
         </item>
