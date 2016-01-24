@@ -1,0 +1,28 @@
+name: Proverbial Path
+favicon: null
+layout_spectrum: 0.228323963470757
+typography_spectrum: 0.2574713353533298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6585298283025622
+  lightness: 0.2727851674426347
+  saturation: 0.717630939790979
+  rhythmicContrast: 0.16184442397207022
+purpose: []
